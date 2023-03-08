@@ -3,9 +3,9 @@
 To launch this project after <strong>clone</strong>, please do follow instructions below : <br> 
 <br>
 Go to Terminal and type 'cd KyanonTesting' to go to folder
-1. You must use the command 'npm i' to build packages
-2. Type 'npm run server' to start the server
-3. Open new terminal and type 'npm start' to run the project
+1. First, you must use the command 'npm i' to build packages.
+2. Then type 'npm run server' to start the server.
+3. After that, open new terminal and type 'npm start' to run the project.
 
 
 
