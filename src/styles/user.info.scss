@@ -1,0 +1,10 @@
+.login-form-bottom.userinfo{
+    display: flex;
+    justify-content: flex-end !important;
+    gap:20px;
+ 
+    #cancel{
+        color: #2e09db;
+        background-color: #F6F4FF !important;
+    }
+}
