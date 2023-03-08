@@ -1,4 +1,4 @@
-HOW TO RUN
+<h1>HOW TO RUN</h1>
 
 To launch this project after clone, please do follow instructions below : <br> 
 <br>
