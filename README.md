@@ -9,7 +9,7 @@ Go to Terminal and type 'cd KyanonTesting' to go to folder
 
 
 
-DATA DEMO
+Email, Password DEMO
 
 email: hoangdinhtan1611@gmail.com password: 123456
 
