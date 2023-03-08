@@ -1,6 +1,6 @@
 <h1>HOW TO RUN</h1>
 
-To launch this project after clone, please do follow instructions below : <br> 
+To launch this project after <strong>clone</strong>, please do follow instructions below : <br> 
 <br>
 Go to Terminal and type 'cd KyanonTesting' to go to folder
 1. You must use the command 'npm i' to build packages
